@@ -19,7 +19,7 @@ To run the project, follow these steps:
 
 Go to the directory where you want to clone the project and run:
 ```
-git clone https://github.com/alaodev/nlw-heat-node.git
+git clone https://github.com/alaodev/NLW-Heat-Node.git
 ```
 
 Then: 
