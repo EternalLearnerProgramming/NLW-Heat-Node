@@ -29,7 +29,7 @@ cd NLW-Heat-Node
 
 Now:
 ```
-yarn or npm i // To install de dependencies.
+yarn or npm i // To install the dependencies.
 ```
 
 To create the database schemas, run the command and then give a name to your migration:
