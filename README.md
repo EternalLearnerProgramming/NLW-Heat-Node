@@ -24,7 +24,7 @@ git clone https://github.com/alaodev/nlw-heat-node.git
 
 Then: 
 ```
-cd nlw-heat-node
+cd NLW-Heat-Node
 ```
 
 Now:
